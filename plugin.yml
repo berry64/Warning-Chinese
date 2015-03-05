@@ -1,0 +1,6 @@
+name: Warning
+main: com.github.berry64.Warnmain
+version: 0.0.1
+commands:
+  warn:
+    description: warn.
